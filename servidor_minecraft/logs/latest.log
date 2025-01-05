@@ -255,3 +255,5 @@
 [03:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Isn't It Iron Pick]
 [03:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Suit Up]
 [03:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Sweet dreams]
+[03:25:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Elgodete lost connection: Timed out
+[03:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete left the game

@@ -7153,3 +7153,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [03:23:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:23:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:24:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:25:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:25:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Elgodete lost connection: Timed out
+[03:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete left the game
+[03:26:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:26:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:27:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:28:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:30:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:31:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:32:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:32:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
