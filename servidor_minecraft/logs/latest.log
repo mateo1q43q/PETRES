@@ -204,3 +204,12 @@
 [00:53:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Migu lost connection: Timed out
 [00:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu left the game
 [01:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Suit Up]
+[01:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Not Today, Thank You]
+[01:12:34] [Server thread/INFO] [antiqueatlas]: Created new marker #9"gui.antiqueatlas.marker.village"@(-491, 821)
+[01:12:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:14:00] [Server thread/INFO] [antiqueatlas]: Created new marker #10"gui.antiqueatlas.marker.village"@(-1387, 277)
+[01:14:07] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:14:56] [Server thread/INFO] [antiqueatlas]: Created new marker #11"gui.antiqueatlas.marker.village"@(-1211, 869)
+[01:15:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[01:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius drowned
+[01:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
