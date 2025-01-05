@@ -218,3 +218,10 @@
 [01:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius left the game
 [01:25:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santiagocuki lost connection: Timed out
 [01:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki left the game
+[01:47:59] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:47:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[01:48:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:48:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Migu[/127.0.0.1:52882] logged in with entity id 219020 at (154.65398440564397, 25.0, -187.35038792238248)
+[01:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu joined the game
+[01:48:00] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Migu
+[01:48:00] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Migu

@@ -6946,3 +6946,35 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [01:42:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:43:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:44:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:47:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:47:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:47:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:47:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:47:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:47:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:47:59] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:47:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:19 mods->FMLHandshakeServerState$2:HELLO
+[01:47:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[01:47:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[01:47:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:47:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[01:48:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:48:00] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[01:48:00] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:48:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:48:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Migu[/127.0.0.1:52882] logged in with entity id 219020 at (154.65398440564397, 25.0, -187.35038792238248)
+[01:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu joined the game
+[01:48:00] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Migu
+[01:48:00] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Migu
+[01:48:01] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:48:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:49:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:50:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:50:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:51:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:52:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:53:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:53:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
