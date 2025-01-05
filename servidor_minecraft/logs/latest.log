@@ -117,3 +117,14 @@
 [16:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro has made the advancement [Ice Bucket Challenge]
 [16:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
 [16:17:57] [Server thread/INFO] [STDOUT]: [com.example.examplemod.HomeController:moveBackHome:53]: 0 0
+[16:28:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: buenardoxpro lost connection: Timed out
+[16:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro left the game
+[16:30:06] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[16:30:06] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,jei@4.16.1.1013,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[16:30:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:30:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: buenardoxpro[/127.0.0.1:34240] logged in with entity id 68792 at (-1757.8644304481613, 73.0, 473.91399978877433)
+[16:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro joined the game
+[16:30:07] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player buenardoxpro
+[16:30:07] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player buenardoxpro
+[16:33:02] [Server thread/INFO] [antiqueatlas]: Created new marker #12"gui.antiqueatlas.marker.village"@(-1483, -219)
+[16:33:44] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT

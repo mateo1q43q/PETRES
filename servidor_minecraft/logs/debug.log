@@ -6782,3 +6782,40 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [16:26:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:26:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:27:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:28:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: buenardoxpro lost connection: Timed out
+[16:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro left the game
+[16:28:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:06] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:30:06] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:30:06] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:30:06] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:30:06] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[16:30:06] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:19 mods->FMLHandshakeServerState$2:HELLO
+[16:30:06] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,jei@4.16.1.1013,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[16:30:06] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[16:30:06] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:30:06] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[16:30:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:30:07] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[16:30:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:30:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:30:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: buenardoxpro[/127.0.0.1:34240] logged in with entity id 68792 at (-1757.8644304481613, 73.0, 473.91399978877433)
+[16:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro joined the game
+[16:30:07] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player buenardoxpro
+[16:30:07] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player buenardoxpro
+[16:30:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:30:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:32:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:32:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:33:02] [Server thread/INFO] [antiqueatlas]: Created new marker #12"gui.antiqueatlas.marker.village"@(-1483, -219)
+[16:33:02] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-93, -14]
+[16:33:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:33:44] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[16:34:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:35:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:35:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:36:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:37:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
