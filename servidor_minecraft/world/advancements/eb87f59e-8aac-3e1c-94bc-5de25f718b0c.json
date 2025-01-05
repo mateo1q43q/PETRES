@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-05 16:53:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-01-05 15:33:15 +0000"
@@ -307,6 +313,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-01-05 16:49:16 +0000",
       "beef": "2025-01-05 16:33:21 +0000",
       "porkchop": "2025-01-05 16:24:34 +0000",
       "rabbit": "2025-01-05 16:31:31 +0000",
@@ -577,10 +584,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-01-05 15:18:04 +0000",
+      "deep_ocean": "2025-01-05 17:05:07 +0000",
       "beaches": "2025-01-05 15:30:26 +0000",
       "desert_hills": "2025-01-05 15:21:24 +0000",
+      "forest_hills": "2025-01-05 16:44:55 +0000",
       "savanna": "2025-01-05 15:29:55 +0000",
       "plains": "2025-01-05 15:19:02 +0000",
+      "savanna_rock": "2025-01-05 16:57:12 +0000",
       "ocean": "2025-01-05 15:54:59 +0000",
       "river": "2025-01-05 15:19:35 +0000",
       "desert": "2025-01-05 15:20:57 +0000"
@@ -695,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-01-05 16:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-01-05 15:32:41 +0000"
@@ -791,6 +807,7 @@
       "skeleton": "2025-01-05 15:28:25 +0000",
       "husk": "2025-01-05 15:21:05 +0000",
       "zombie": "2025-01-05 15:19:31 +0000",
+      "cave_spider": "2025-01-05 16:41:20 +0000",
       "witch": "2025-01-05 15:28:22 +0000",
       "spider": "2025-01-05 15:28:53 +0000",
       "creeper": "2025-01-05 15:23:48 +0000"
