@@ -213,3 +213,8 @@
 [01:15:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [01:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius drowned
 [01:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius drowned
+[01:24:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: neixius lost connection: Timed out
+[01:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius left the game
+[01:25:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santiagocuki lost connection: Timed out
+[01:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki left the game

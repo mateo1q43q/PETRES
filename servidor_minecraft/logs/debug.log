@@ -6914,3 +6914,21 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [01:23:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
 [01:23:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius drowned
+[01:24:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: neixius lost connection: Timed out
+[01:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius left the game
+[01:25:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santiagocuki lost connection: Timed out
+[01:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki left the game
+[01:25:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:31:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
