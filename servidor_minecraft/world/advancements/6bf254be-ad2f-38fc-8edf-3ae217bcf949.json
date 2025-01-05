@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-05 00:34:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-01-05 00:18:42 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-05 00:40:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-05 00:20:15 +0000"
@@ -266,6 +278,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-05 00:34:25 +0000"
     },
     "done": true
   },
@@ -464,6 +482,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-01-05 00:17:19 +0000",
+      "beaches": "2025-01-05 00:41:20 +0000",
       "desert_hills": "2025-01-05 00:31:32 +0000",
       "plains": "2025-01-05 00:17:32 +0000",
       "river": "2025-01-05 00:17:08 +0000",
@@ -480,6 +499,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-05 00:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-05 00:42:50 +0000"
     },
     "done": true
   },
