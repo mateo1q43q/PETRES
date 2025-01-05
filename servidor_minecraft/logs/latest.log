@@ -226,3 +226,17 @@
 [01:48:00] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Migu
 [01:48:00] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Migu
 [01:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [A Seedy Place]
+[02:06:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Migu lost connection: Timed out
+[02:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu left the game
+[02:08:17] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:08:17] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[02:08:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:08:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Diriak[/127.0.0.1:45522] logged in with entity id 238885 at (177.5, 63.0, 249.5)
+[02:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak joined the game
+[02:08:18] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Diriak
+[02:08:18] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Diriak
+[02:09:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak drowned
+[02:09:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak was slain by Zombie
+[02:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak was slain by Zombie
+[02:12:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Diriak lost connection: Timed out
+[02:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak left the game
