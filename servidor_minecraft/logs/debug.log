@@ -6829,3 +6829,49 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [00:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> sin camas
 [00:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> ay sii
 [00:43:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Not Today, Thank You]
+[00:44:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:45:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius has made the advancement [Isn't It Iron Pick]
+[00:46:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Isn't It Iron Pick]
+[00:47:13] [Server thread/INFO] [antiqueatlas]: Created new marker #6"gui.antiqueatlas.marker.village"@(-667, -235)
+[00:47:13] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-42, -15]
+[00:47:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <neixius> hay limites de hacer casa?
+[00:47:21] [Server thread/INFO] [antiqueatlas]: Created new marker #7"gui.antiqueatlas.marker.village"@(-715, 277)
+[00:47:21] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-45, 17]
+[00:47:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:47:52] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:47:54] [Server thread/INFO] [antiqueatlas]: Created new marker #8"gui.antiqueatlas.marker.village"@(-443, -715)
+[00:47:54] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-28, -45]
+[00:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Suit Up]
+[00:48:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:48:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:49:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KlystonSama lost connection: Timed out
+[00:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KlystonSama left the game
+[00:49:51] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
+[00:50:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:50:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:51:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:52:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:53:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Migu lost connection: Timed out
+[00:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu left the game
+[00:53:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:54:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:55:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:56:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:56:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:57:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:58:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:59:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:59:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:00:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:01:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:02:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:02:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:03:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Suit Up]
