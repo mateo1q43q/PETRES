@@ -6767,3 +6767,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [16:15:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:16:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:17:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:17:57] [Server thread/INFO] [STDOUT]: [com.example.examplemod.HomeController:moveBackHome:53]: 0 0
+[16:17:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:18:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:19:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:20:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:20:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:21:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:22:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:23:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:23:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
