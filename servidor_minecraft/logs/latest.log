@@ -1,259 +1,110 @@
-[00:13:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:13:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:13:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:13:43] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[00:13:43] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:13:44] [main/INFO] [FML]: Searching /workspaces/PETRES/servidor_minecraft/./mods for mods
-[00:13:44] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.4.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:13:44] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
-[00:13:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:13:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:13:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:13:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:13:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:13:48] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:13:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:13:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:13:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:13:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:13:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:13:50] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:13:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[00:13:54] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[00:13:54] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[00:13:55] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[00:13:55] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[00:13:56] [Server thread/INFO] [FML]: Searching /workspaces/PETRES/servidor_minecraft/./mods for mods
-[00:13:57] [Server thread/INFO] [FML]: Disabling mod rpghud it is client side only.
-[00:13:57] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
-[00:13:57] [Server thread/INFO] [FML]: Disabling mod fpsreducer it is client side only.
-[00:13:57] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
-[00:13:57] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
-[00:13:57] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[00:13:57] [Server thread/WARN] [FML]: Missing English translation for get_back_to_home: assets/get_back_to_home/lang/en_us.lang
-[00:13:57] [Server thread/INFO] [FML]: FML has found a non-mod file [1.12][Forge] RPG-HUD-3.8.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[00:13:57] [Server thread/INFO] [FML]: FML has found a non-mod file FpsReducer-mc1.12.2-1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[00:13:58] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, applecore, artifacts, get_back_to_home, baubles, carryon, chococraft, durabilitynotifier, gb, patchouli, travelersbackpack] at CLIENT
-[00:13:58] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, applecore, artifacts, get_back_to_home, baubles, carryon, chococraft, durabilitynotifier, gb, patchouli, travelersbackpack] at SERVER
-[00:13:58] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
-[00:13:59] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[00:13:59] [Server thread/INFO] [FML]: Found 1188 ObjectHolder annotations
-[00:13:59] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[00:13:59] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[00:13:59] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[00:13:59] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[00:14:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[00:14:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[00:14:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[00:14:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[00:14:00] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[00:14:00] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[00:14:01] [Server thread/INFO] [FML]: Applying holder lookups
-[00:14:01] [Server thread/INFO] [FML]: Holder lookups applied
-[00:14:01] [Server thread/INFO] [FML]: Applying holder lookups
-[00:14:01] [Server thread/INFO] [FML]: Holder lookups applied
-[00:14:01] [Server thread/INFO] [FML]: Applying holder lookups
-[00:14:01] [Server thread/INFO] [FML]: Holder lookups applied
-[00:14:01] [Server thread/INFO] [FML]: Applying holder lookups
-[00:14:01] [Server thread/INFO] [FML]: Holder lookups applied
-[00:14:01] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:14:01] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[00:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[00:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[00:14:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[00:14:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[00:14:01] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
-[00:14:01] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
-[00:14:01] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[00:14:01] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[00:14:01] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[00:14:01] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[00:14:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:14:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[00:14:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:14:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:14:02] [Server thread/INFO] [FML]: Applying holder lookups
-[00:14:02] [Server thread/INFO] [FML]: Holder lookups applied
-[00:14:02] [Server thread/INFO] [get_back_to_home]: DIRT BLOCK >> minecraft:dirt
-[00:14:02] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:14:02] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:14:02] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
-[00:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[00:14:02] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[00:14:03] [Server thread/INFO] [FML]: Applying holder lookups
-[00:14:03] [Server thread/INFO] [FML]: Holder lookups applied
-[00:14:03] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4ab79c58)
-[00:14:03] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[00:14:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4ab79c58)
-[00:14:04] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4ab79c58)
-[00:14:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[00:14:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 1%
-[00:14:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 33%
-[00:14:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
-[00:14:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.896s)! For help, type "help" or "?"
-[00:14:07] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:14:07] [Server thread/INFO] [FML]: Unloading dimension 1
-[00:14:31] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[00:14:31] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
-[00:14:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:14:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KlystonSama[/127.0.0.1:56904] logged in with entity id 214 at (175.32071394865477, 64.0, 245.40158476125862)
-[00:14:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KlystonSama joined the game
-[00:14:32] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player KlystonSama
-[00:14:32] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player KlystonSama
-[00:14:52] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[00:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KlystonSama has made the advancement [Acquire Hardware]
-[00:17:07] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[00:17:07] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
-[00:17:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:17:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: santiagocuki[/127.0.0.1:38220] logged in with entity id 2706 at (170.5, 64.0, 240.5)
-[00:17:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki joined the game
-[00:17:08] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player santiagocuki
-[00:17:08] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player santiagocuki
-[00:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> barbarooooo
-[00:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> JAJAJJAA
-[00:17:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> te banda bien?
-[00:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> como tenes iron hdp
-[00:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> seee
-[00:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Stone Age]
-[00:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Getting an Upgrade]
-[00:19:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> decile al thiago q se una
-[00:19:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> pajerito ese
-[00:19:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> anda metiendo codigo
-[00:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> pero el pene nunca
-[00:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to santiagocuki: cuantos fps?
-[00:20:28] [Server thread/INFO] [antiqueatlas]: Created new marker #2"gui.antiqueatlas.marker.village"@(53, -155)
-[00:20:52] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[00:20:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> 34/54
-[00:21:16] [Server thread/INFO] [antiqueatlas]: Created new marker #3"gui.antiqueatlas.marker.village"@(-219, 165)
-[00:21:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[00:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to santiagocuki: bien, cualquier cosa intenta jugar con los graficos de optifine o usar el fps reducer que agregue, suerte
-[00:21:43] [Server thread/INFO] [antiqueatlas]: Created new marker #4"gui.antiqueatlas.marker.village"@(517, -251)
-[00:21:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> gracias
-[00:22:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> ????
-[00:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> estoy hablando con jesus
-[00:22:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> me esta preguntando los fps
-[00:22:22] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[00:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> a
-[00:22:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> rroz
-[00:22:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> va muy mal??
-[00:22:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> no
-[00:22:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> me va god
-[00:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[00:23:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'a' cannot be found
-[00:23:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KlystonSama has made the advancement [Monster Hunter]
-[00:23:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to santiagocuki: hola
-[00:23:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to KlystonSama: hola
-[00:23:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Monster Hunter]
-[00:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to santiagocuki: ahora si chau, suerte
-[00:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to KlystonSama: ahora si chau, suerte
-[00:24:00] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[00:24:00] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
-[00:24:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:24:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: neixius[/127.0.0.1:47046] logged in with entity id 13041 at (168.5, 66.0, 240.5)
-[00:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius joined the game
-[00:24:01] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player neixius
-[00:24:01] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player neixius
-[00:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> ds?
-[00:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Acquire Hardware]
-[00:25:54] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:25:54] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
-[00:25:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:25:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Migu[/127.0.0.1:34530] logged in with entity id 16842 at (171.5, 64.0, 240.5)
-[00:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu joined the game
-[00:25:55] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Migu
-[00:25:55] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Migu
-[00:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius has made the advancement [Stone Age]
-[00:29:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius has made the advancement [Getting an Upgrade]
-[00:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius has made the advancement [Monster Hunter]
-[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Monster Hunter]
-[00:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> diablo malcom.
-[00:31:19] [Server thread/INFO] [antiqueatlas]: Created new marker #5"gui.antiqueatlas.marker.village"@(1093, 853)
-[00:31:22] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[00:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Stone Age]
-[00:32:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Diamonds!]
-[00:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Isn't It Iron Pick]
-[00:32:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> santi tramposo
-[00:32:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> shhh los hacks
-[00:32:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Getting an Upgrade]
-[00:34:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Best Friends Forever]
-[00:37:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [The Parrots and the Bats]
-[00:38:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KlystonSama has made the advancement [Stone Age]
-[00:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KlystonSama has made the advancement [Getting an Upgrade]
-[00:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Acquire Hardware]
-[00:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius has made the advancement [Acquire Hardware]
-[00:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Sweet dreams]
-[00:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius has made the advancement [Suit Up]
-[00:43:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> duerman perros
-[00:43:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <neixius> no tener cama
-[00:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <KlystonSama> sin camas
-[00:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santiagocuki> ay sii
-[00:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Not Today, Thank You]
-[00:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius has made the advancement [Isn't It Iron Pick]
-[00:47:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Isn't It Iron Pick]
-[00:47:13] [Server thread/INFO] [antiqueatlas]: Created new marker #6"gui.antiqueatlas.marker.village"@(-667, -235)
-[00:47:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <neixius> hay limites de hacer casa?
-[00:47:21] [Server thread/INFO] [antiqueatlas]: Created new marker #7"gui.antiqueatlas.marker.village"@(-715, 277)
-[00:47:52] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[00:47:54] [Server thread/INFO] [antiqueatlas]: Created new marker #8"gui.antiqueatlas.marker.village"@(-443, -715)
-[00:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [Suit Up]
-[00:48:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[00:49:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KlystonSama lost connection: Timed out
-[00:49:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KlystonSama left the game
-[00:49:51] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
-[00:53:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Migu lost connection: Timed out
-[00:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu left the game
-[01:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Suit Up]
-[01:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki has made the advancement [Not Today, Thank You]
-[01:12:34] [Server thread/INFO] [antiqueatlas]: Created new marker #9"gui.antiqueatlas.marker.village"@(-491, 821)
-[01:12:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[01:14:00] [Server thread/INFO] [antiqueatlas]: Created new marker #10"gui.antiqueatlas.marker.village"@(-1387, 277)
-[01:14:07] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[01:14:56] [Server thread/INFO] [antiqueatlas]: Created new marker #11"gui.antiqueatlas.marker.village"@(-1211, 869)
-[01:15:37] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
-[01:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius drowned
-[01:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:24:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius drowned
-[01:24:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: neixius lost connection: Timed out
-[01:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: neixius left the game
-[01:25:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santiagocuki lost connection: Timed out
-[01:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santiagocuki left the game
-[01:47:59] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[01:47:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
-[01:48:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:48:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Migu[/127.0.0.1:52882] logged in with entity id 219020 at (154.65398440564397, 25.0, -187.35038792238248)
-[01:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu joined the game
-[01:48:00] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Migu
-[01:48:00] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Migu
-[01:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu has made the advancement [A Seedy Place]
-[02:06:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Migu lost connection: Timed out
-[02:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Migu left the game
-[02:08:17] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[02:08:17] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
-[02:08:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:08:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Diriak[/127.0.0.1:45522] logged in with entity id 238885 at (177.5, 63.0, 249.5)
-[02:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak joined the game
-[02:08:18] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Diriak
-[02:08:18] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Diriak
-[02:09:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak drowned
-[02:09:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak was slain by Zombie
-[02:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak was slain by Zombie
-[02:12:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Diriak lost connection: Timed out
-[02:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Diriak left the game
-[02:50:28] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[02:50:28] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 19 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
-[02:50:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:50:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Elgodete[/127.0.0.1:55840] logged in with entity id 241578 at (176.5, 64.0, 240.5)
-[02:50:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete joined the game
-[02:50:29] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player Elgodete
-[02:50:29] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player Elgodete
-[02:53:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Stone Age]
-[02:54:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Getting an Upgrade]
-[02:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Monster Hunter]
-[02:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Acquire Hardware]
-[03:02:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [A Seedy Place]
-[03:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Isn't It Iron Pick]
-[03:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Suit Up]
-[03:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete has made the advancement [Sweet dreams]
-[03:25:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Elgodete lost connection: Timed out
-[03:25:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elgodete left the game
+[15:17:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:17:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:17:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:17:32] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[15:17:32] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[15:17:32] [main/INFO] [FML]: Searching /workspaces/PETRES/servidor_minecraft/./mods for mods
+[15:17:32] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in AppleCore-mc1.12.2-3.4.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[15:17:33] [main/WARN] [FML]: The coremod AppleCore (squeek.applecore.AppleCore) is not signed!
+[15:17:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:17:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:17:37] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:17:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:17:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:17:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:17:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:17:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:17:38] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[15:17:45] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[15:17:45] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[15:17:45] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[15:17:46] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[15:17:47] [Server thread/INFO] [FML]: Searching /workspaces/PETRES/servidor_minecraft/./mods for mods
+[15:17:48] [Server thread/INFO] [FML]: Disabling mod rpghud it is client side only.
+[15:17:48] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
+[15:17:48] [Server thread/INFO] [FML]: Disabling mod fpsreducer it is client side only.
+[15:17:48] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[15:17:49] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
+[15:17:49] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[15:17:49] [Server thread/WARN] [FML]: Missing English translation for get_back_to_home: assets/get_back_to_home/lang/en_us.lang
+[15:17:49] [Server thread/INFO] [FML]: FML has found a non-mod file [1.12][Forge] RPG-HUD-3.8.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:17:49] [Server thread/INFO] [FML]: FML has found a non-mod file FpsReducer-mc1.12.2-1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:17:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, applecore, artifacts, get_back_to_home, baubles, carryon, chococraft, durabilitynotifier, gb, patchouli, travelersbackpack] at CLIENT
+[15:17:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, antiqueatlas, applecore, artifacts, get_back_to_home, baubles, carryon, chococraft, durabilitynotifier, gb, patchouli, travelersbackpack] at SERVER
+[15:17:51] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[15:17:51] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[15:17:51] [Server thread/INFO] [FML]: Found 1188 ObjectHolder annotations
+[15:17:51] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[15:17:51] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[15:17:51] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[15:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[15:17:52] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[15:17:52] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[15:17:52] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[15:17:52] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[15:17:52] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[15:17:52] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[15:17:52] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[15:17:52] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[15:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
+[15:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[15:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[15:17:53] [Server thread/INFO] [FML]: Applying holder lookups
+[15:17:53] [Server thread/INFO] [FML]: Holder lookups applied
+[15:17:53] [Server thread/INFO] [FML]: Applying holder lookups
+[15:17:53] [Server thread/INFO] [FML]: Holder lookups applied
+[15:17:53] [Server thread/INFO] [FML]: Applying holder lookups
+[15:17:53] [Server thread/INFO] [FML]: Holder lookups applied
+[15:17:53] [Server thread/INFO] [FML]: Applying holder lookups
+[15:17:53] [Server thread/INFO] [FML]: Holder lookups applied
+[15:17:53] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:17:53] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:17:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[15:17:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[15:17:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[15:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[15:17:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[15:17:54] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[15:17:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:17:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[15:17:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:17:54] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:17:54] [Server thread/INFO] [FML]: Applying holder lookups
+[15:17:54] [Server thread/INFO] [FML]: Holder lookups applied
+[15:17:54] [Server thread/INFO] [get_back_to_home]: DIRT BLOCK >> minecraft:dirt
+[15:17:54] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:17:54] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:17:54] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
+[15:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[15:17:55] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[15:17:55] [Server thread/INFO] [FML]: Applying holder lookups
+[15:17:55] [Server thread/INFO] [FML]: Holder lookups applied
+[15:17:56] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5c251f28)
+[15:17:56] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[15:17:56] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[15:17:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5c251f28)
+[15:17:57] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5c251f28)
+[15:17:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[15:17:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 3%
+[15:17:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 40%
+[15:17:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.681s)! For help, type "help" or "?"
+[15:17:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:17:59] [Server thread/INFO] [FML]: Unloading dimension 1
+[15:18:03] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[15:18:03] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,rpghud@3.8.1,antiqueatlasoverlay@1.2,applecore@3.4.0,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,forge@14.23.5.2860,get_back_to_home@1.6,durabilitynotifier@1.0.0,patchouli@1.0-23.6,mcp@9.42,chococraft@0.9.1.52,gb@1.1.206,antiqueatlas@4.6.3,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35
+[15:18:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:18:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: buenardoxpro[/127.0.0.1:56088] logged in with entity id 47 at (174.5, 64.0, 241.5)
+[15:18:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro joined the game
+[15:18:04] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player buenardoxpro
+[15:18:04] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player buenardoxpro
+[15:18:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to buenardoxpro: Estas solo? :)
+[15:18:44] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[15:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro has made the advancement [Monster Hunter]
+[15:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro has made the advancement [Stone Age]
+[15:25:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: buenardoxpro has made the advancement [Getting an Upgrade]
+[15:27:10] [Server thread/INFO] [STDOUT]: [com.example.examplemod.HomeController:moveBackHome:53]: 0 0
+[15:27:15] [Server thread/INFO] [STDOUT]: [com.example.examplemod.HomeController:moveBackHome:53]: 0 0
